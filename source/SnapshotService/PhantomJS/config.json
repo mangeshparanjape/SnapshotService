@@ -1,0 +1,6 @@
+{
+  /* Same as: --ignore-ssl-errors=true */
+  "ignoreSslErrors": true,
+  "loadPlugins": true,
+  "proxyType":none
+}
